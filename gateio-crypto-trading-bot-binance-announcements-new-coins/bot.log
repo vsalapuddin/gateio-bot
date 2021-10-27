@@ -1,0 +1,45 @@
+2021-10-27 01:17:52,617 INFO: Getting the list of supported currencies from gate io
+2021-10-27 01:17:54,906 INFO: List of gate io currencies saved to currencies.json. Waiting 5 minutes before refreshing list...
+2021-10-27 01:17:54,907 INFO: working...
+2021-10-27 01:17:54,908 INFO: Getting the list of supported currencies from gate io
+2021-10-27 01:17:54,909 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:17:55,492 INFO: List of gate io currencies saved to currencies.json. Waiting 5 minutes before refreshing list...
+2021-10-27 01:17:57,913 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:17:58,149 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:00,917 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:01,310 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:03,918 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:04,406 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:06,919 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:07,559 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:09,925 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:10,667 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:12,930 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:13,822 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:15,936 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:16,994 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:18,937 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:20,121 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:21,939 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:23,252 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:24,944 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:26,362 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:27,949 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:29,495 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:30,954 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:32,636 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:33,960 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:35,743 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:36,967 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:38,875 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:39,972 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:42,003 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:42,974 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:45,331 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:45,977 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:48,464 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:48,977 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:51,585 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:51,981 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
+2021-10-27 01:18:54,727 INFO: Checking for coin announcements every 1 minute (in a separate thread)
+2021-10-27 01:18:54,982 INFO: No coins announced, or coin has already been bought/sold. Checking more frequently in case TP and SL need updating
